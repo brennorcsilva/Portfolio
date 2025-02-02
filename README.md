@@ -34,8 +34,6 @@
    http://localhost:3000
    ```
 
-## Deploy
-O portfólio está hospedado na [Vercel](https://seu-portifolio.vercel.app), garantindo alta performance e disponibilidade.
 
 ## Contato
 Caso queira entrar em contato, você pode me encontrar em:
