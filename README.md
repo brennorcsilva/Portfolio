@@ -39,7 +39,7 @@ O portfólio está hospedado na [Vercel](https://seu-portifolio.vercel.app), gar
 
 ## Contato
 Caso queira entrar em contato, você pode me encontrar em:
-- **Email**: seu-email@email.com
-- **LinkedIn**: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)
-- **GitHub**: [github.com/seu-usuario](https://github.com/seu-usuario)
+- **Email**: brennorcsilva@gmail.com
+- **LinkedIn**: [[linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)](https://www.linkedin.com/in/brennorcsilva/)
+- **GitHub**: [[github.com/seu-usuario](https://github.com/seu-usuario)](https://github.com/brennorcsilva)
 
