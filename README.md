@@ -1,7 +1,5 @@
 # Meu Portfólio de Desenvolvimento
 
-Este é o meu portfólio de desenvolvedor, onde apresento alguns dos meus projetos e habilidades. O site foi construído com tecnologias modernas para garantir uma experiência responsiva e intuitiva.
-
 ## Tecnologias Utilizadas
 - **Next.js**: Framework para React que permite renderização híbrida e otimizações de desempenho.
 - **Tailwind CSS**: Biblioteca de estilização utilitária para um design moderno e responsivo.
