@@ -5,7 +5,7 @@ export default function Projects(){
         {
             title: "Portfólio",
             image: "/placeholder.svg?height=200&width=250",
-            href: "#",
+            href: "https://github.com/brennorcsilva/portfolio",
           },
           {
             title: "Jogo em Javascript",
@@ -31,7 +31,7 @@ export default function Projects(){
     ]
 
     return(
-        <section id="projetos" className="container mx-auto px-4 py-16">
+        <section id="projetos" className="container mx-auto mt-24 px-4 py-16">
             <div className="grid md:grid-cols-2 gap-6">
                 {projects.slice(0, 4).map((project)=>(
                     <ProjectCard key={project.title} {...project} />
